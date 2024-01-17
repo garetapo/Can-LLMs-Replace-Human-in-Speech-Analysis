@@ -1,7 +1,7 @@
 # Can Large Language Models Replace Human in Speech Analysis?
 
 
-This repository encompasses the complete codebase developed for addressing the key research question of our thesis, "Can Large Language Models Replace Humans in Speech Analysis?" This comprehensive collection of code and resources forms an integral part of the Master's Thesis for the Master in Fundamentals and Principles of Data Science, supervised by Santi Seguí.
+This repository encompasses the complete codebase developed for addressing the key research question of our thesis, "Can Large Language Models Replace Humans in Speech Analysis?" This comprehensive collection of code and resources forms an integral part of the Master's Thesis for the Master in Fundamentals and Principles of Data Science, supervised by Santi Seguí and elaborated by Pol Gareta Casas.
 
 ## Notebooks
 
